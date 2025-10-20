@@ -59,7 +59,7 @@ can range between somewhat technical and more sacual, but it must be something
 that technical readers would find interesting. Use the answers from step 1 to
 frame the story. Word limit is 800-850 words.
 
-# Chapter 3
+# Chapter 3: SUCCES
 The secret to a good story is SUCCES, a abbreviation of **S**imple, **U**nexpected,
 **C**oncrete, **C**redible, **E**motional and **S**tories.
 
@@ -75,26 +75,37 @@ even if it is leading scientists in the field, try to find the simplest way on
 conveying the message.
 
 ## Unexpected
-
-Write after lecture
+The *Unexpected* part of SUCCES lies in highlighting the unexpected is through the knowledge
+gap theory of curiosity. Not just present results, to fill in gaps or to validate some 
+method.
 
 ## Concrete 
-
-Write after lecture
+Keeping it concrete mean that we do not go away from the message that we want to 
+send. Let the data speak
 
 ## Credible 
-
-Write after lecture
+If scientific writing is not credible it is science fiction. We establish credability
+by citing previous work, and good explanation of our methods
 
 ## Emotional 
-
-Write after lecture
+This is somewhat hard to achieve when writing science. However, one emotion that
+we as writers should try to give the reader is curiosity
 
 ## Stories 
+This is all about storytelling, how you package what you write and that it follows
+a logical structure.
 
-Write after lecture
 
+# Chapter 4: Story Structure
+All stories have common elements that are necessary to make them engaging and memorable. In 
+general there are four elements that underline the structure of all stories:
 
-
+* **Opening(O)**: Who is the story about? Who are the characters? What is the
+  larger problem?
+* **Challenge(C)**: What do the characters need to accomplish? Questions to
+  answer?
+* **Action(A)**: In a paper, this is the description of the work done
+* **Resolution(R)**: How did the characters change as a result of the
+  challenge. In a paper, this is the resolution
 
 

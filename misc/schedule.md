@@ -2,12 +2,21 @@
 Literature: *Writing Science: How to write papers that get cited and proposals that get funded*
 
 ## Lecture 1: Introduction to Writing Science and how to give feedback
-- [ ] Read chapters 1-3
-- [ ] Write a 800-850 character long article, steps to take:
+- [x] Read chapters 1-3
+- [x] Write a 800-850 character long article, steps to take:
 
 ## Lecture 2: AI in writing and Scientific Pitching 
+- [x] Revise the article according to SUCCES
 - [ ] Read chapters 4-6
-- [ ] Evaluate and revise story telling
+- [x] Evaluate and revise story telling according to:
+    - [x] Exercise 4.2
+    - Follows OCAR pretty good
+    - [x] Exercise 5.2
+    - [x] Exercise 6.2
+- [ ] Write a title
+- [x] Upload the new document to the group files (Deadline 13/10)
+- [ ] Give feedback to group members articles based on 4.2, 5.2 and 6.2
+- [ ] Upload feedback (Deadline 15/10)
 
 ## Lecture 3: Titles, Abstract, References and tense
 - [ ] Read chapters 7-9
